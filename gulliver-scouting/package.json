@@ -1,0 +1,13 @@
+{
+  "name": "gulliver-scouting-board",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gulliver vs Bolles XC scouting board (coaches' edition)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
